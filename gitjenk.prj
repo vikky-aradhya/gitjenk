@@ -4,5 +4,5 @@
    <name>gitjenk</name>
    <tag></tag>
    <UUID>16027394-60e7-4636-bbc9-0c7241973540</UUID>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>0</pageLoadTimeout>
 </Project>
